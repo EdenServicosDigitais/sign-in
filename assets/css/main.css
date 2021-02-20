@@ -1,0 +1,15 @@
+@import url("sign-in-google.css");
+@import url("sign-in-email.css");
+@import url("buttons.css");
+@import url("navbar.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#divider{
+    font-size: 11pt;
+    text-align: center;
+}

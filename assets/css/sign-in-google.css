@@ -1,0 +1,33 @@
+.sign-in-google {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.sign-in-google h1 {
+    padding: 10px;
+    font-size: 25pt;
+    margin-bottom: 12px;
+}
+
+.sign-in-google button {
+    width: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in-google img {
+    width: 20px;
+    padding-left: 10px;
+}
+
+#sign-box {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+}
+
+#logo{
+    width: 200px;
+}
